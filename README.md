@@ -1,4 +1,4 @@
-Cola do projeto
+Anotações do projeto
 
 Improve your front-end skills by building projects (em negrito)
 
